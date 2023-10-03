@@ -1,0 +1,8 @@
+MIDlet-1: FileDemoApplication2, FileDemoApplication2.png, FileDemo.fileMidlet
+MIDlet-Jar-Size: 6114
+MIDlet-Jar-URL: FileDemoApplication2.jar
+MIDlet-Name: FileDemoApplication2
+MIDlet-Vendor: Unknown
+MIDlet-Version: 1.0
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.0

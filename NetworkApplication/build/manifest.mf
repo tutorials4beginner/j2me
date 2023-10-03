@@ -1,0 +1,7 @@
+MIDlet-2: HTTPConMidlet, , HTTPDemo.HTTPConMidlet
+MIDlet-1: networkMidlet, , socketDemo.networkMidlet
+MIDlet-Vendor: Vendor
+MIDlet-Version: 1.0
+MIDlet-Name: NetworkApplication
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.0
